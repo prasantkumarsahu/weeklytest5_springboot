@@ -5,7 +5,7 @@ This is a API project for insert, read, update, and delete Jobs using **H2 Datab
 
 ## Frameworks and Languages
 
-![Java v17](https://img.shields.io/badge/Java-v17-green "Java 17") ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v3.0.5-brightgreen "Spring Boot v3.0.5")
+![Java v17](https://img.shields.io/badge/Java-v17-green "Java 17") ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v3.0.6-brightgreen "Spring Boot v3.0.6")
 =======
 
 ---
