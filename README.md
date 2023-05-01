@@ -1,7 +1,3 @@
-# User Management System
-
-This is a API project for insert, read, update, and delete User.
-=======
 # Job Management System
 This is a API project for insert, read, update, and delete Jobs using **H2 Database** and `CrudRepository`.
 
